@@ -1,0 +1,15 @@
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista1\exemplo19\exemplo19\obj\Debug\net6.0\exemplo19.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista1\exemplo19\exemplo19\obj\Debug\net6.0\exemplo19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista1\exemplo19\exemplo19\obj\Debug\net6.0\exemplo19.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista1\exemplo19\exemplo19\obj\Debug\net6.0\exemplo19.AssemblyInfo.cs
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista1\exemplo19\exemplo19\obj\Debug\net6.0\exemplo19.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista1\exemplo19\exemplo19\bin\Debug\net6.0\exemplo19.exe
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista1\exemplo19\exemplo19\bin\Debug\net6.0\exemplo19.deps.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista1\exemplo19\exemplo19\bin\Debug\net6.0\exemplo19.runtimeconfig.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista1\exemplo19\exemplo19\bin\Debug\net6.0\exemplo19.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista1\exemplo19\exemplo19\bin\Debug\net6.0\exemplo19.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista1\exemplo19\exemplo19\obj\Debug\net6.0\exemplo19.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista1\exemplo19\exemplo19\obj\Debug\net6.0\refint\exemplo19.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista1\exemplo19\exemplo19\obj\Debug\net6.0\exemplo19.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista1\exemplo19\exemplo19\obj\Debug\net6.0\exemplo19.genruntimeconfig.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista1\exemplo19\exemplo19\obj\Debug\net6.0\ref\exemplo19.dll
