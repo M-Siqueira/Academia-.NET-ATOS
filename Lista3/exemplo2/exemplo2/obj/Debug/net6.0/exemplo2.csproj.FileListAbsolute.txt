@@ -1,0 +1,15 @@
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\exemplo2\exemplo2\bin\Debug\net6.0\exemplo2.exe
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\exemplo2\exemplo2\bin\Debug\net6.0\exemplo2.deps.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\exemplo2\exemplo2\bin\Debug\net6.0\exemplo2.runtimeconfig.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\exemplo2\exemplo2\bin\Debug\net6.0\exemplo2.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\exemplo2\exemplo2\bin\Debug\net6.0\exemplo2.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\exemplo2\exemplo2\obj\Debug\net6.0\exemplo2.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\exemplo2\exemplo2\obj\Debug\net6.0\exemplo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\exemplo2\exemplo2\obj\Debug\net6.0\exemplo2.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\exemplo2\exemplo2\obj\Debug\net6.0\exemplo2.AssemblyInfo.cs
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\exemplo2\exemplo2\obj\Debug\net6.0\exemplo2.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\exemplo2\exemplo2\obj\Debug\net6.0\exemplo2.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\exemplo2\exemplo2\obj\Debug\net6.0\refint\exemplo2.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\exemplo2\exemplo2\obj\Debug\net6.0\exemplo2.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\exemplo2\exemplo2\obj\Debug\net6.0\exemplo2.genruntimeconfig.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\exemplo2\exemplo2\obj\Debug\net6.0\ref\exemplo2.dll
