@@ -1,0 +1,15 @@
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\ex20\bin\Debug\net6.0\ex20.exe
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\ex20\bin\Debug\net6.0\ex20.deps.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\ex20\bin\Debug\net6.0\ex20.runtimeconfig.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\ex20\bin\Debug\net6.0\ex20.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\ex20\bin\Debug\net6.0\ex20.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\ex20\obj\Debug\net6.0\ex20.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\ex20\obj\Debug\net6.0\ex20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\ex20\obj\Debug\net6.0\ex20.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\ex20\obj\Debug\net6.0\ex20.AssemblyInfo.cs
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\ex20\obj\Debug\net6.0\ex20.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\ex20\obj\Debug\net6.0\ex20.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\ex20\obj\Debug\net6.0\refint\ex20.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\ex20\obj\Debug\net6.0\ex20.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\ex20\obj\Debug\net6.0\ex20.genruntimeconfig.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista3\ex20\obj\Debug\net6.0\ref\ex20.dll

@@ -1,0 +1,15 @@
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo menor numero\bin\Debug\net6.0\exemplo menor numero.exe
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo menor numero\bin\Debug\net6.0\exemplo menor numero.deps.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo menor numero\bin\Debug\net6.0\exemplo menor numero.runtimeconfig.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo menor numero\bin\Debug\net6.0\exemplo menor numero.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo menor numero\bin\Debug\net6.0\exemplo menor numero.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo menor numero\obj\Debug\net6.0\exemplo menor numero.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo menor numero\obj\Debug\net6.0\exemplo menor numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo menor numero\obj\Debug\net6.0\exemplo menor numero.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo menor numero\obj\Debug\net6.0\exemplo menor numero.AssemblyInfo.cs
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo menor numero\obj\Debug\net6.0\exemplo menor numero.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo menor numero\obj\Debug\net6.0\exemplo menor numero.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo menor numero\obj\Debug\net6.0\refint\exemplo menor numero.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo menor numero\obj\Debug\net6.0\exemplo menor numero.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo menor numero\obj\Debug\net6.0\exemplo menor numero.genruntimeconfig.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo menor numero\obj\Debug\net6.0\ref\exemplo menor numero.dll

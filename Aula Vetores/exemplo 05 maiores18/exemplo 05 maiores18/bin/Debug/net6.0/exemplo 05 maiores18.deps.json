@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "exemplo 05 maiores18/1.0.0": {
+        "runtime": {
+          "exemplo 05 maiores18.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exemplo 05 maiores18/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

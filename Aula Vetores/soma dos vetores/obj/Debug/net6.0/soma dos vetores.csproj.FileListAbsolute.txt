@@ -1,0 +1,15 @@
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\soma dos vetores\bin\Debug\net6.0\soma dos vetores.exe
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\soma dos vetores\bin\Debug\net6.0\soma dos vetores.deps.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\soma dos vetores\bin\Debug\net6.0\soma dos vetores.runtimeconfig.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\soma dos vetores\bin\Debug\net6.0\soma dos vetores.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\soma dos vetores\bin\Debug\net6.0\soma dos vetores.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\soma dos vetores\obj\Debug\net6.0\soma dos vetores.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\soma dos vetores\obj\Debug\net6.0\soma dos vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\soma dos vetores\obj\Debug\net6.0\soma dos vetores.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\soma dos vetores\obj\Debug\net6.0\soma dos vetores.AssemblyInfo.cs
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\soma dos vetores\obj\Debug\net6.0\soma dos vetores.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\soma dos vetores\obj\Debug\net6.0\soma dos vetores.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\soma dos vetores\obj\Debug\net6.0\refint\soma dos vetores.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\soma dos vetores\obj\Debug\net6.0\soma dos vetores.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\soma dos vetores\obj\Debug\net6.0\soma dos vetores.genruntimeconfig.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\soma dos vetores\obj\Debug\net6.0\ref\soma dos vetores.dll

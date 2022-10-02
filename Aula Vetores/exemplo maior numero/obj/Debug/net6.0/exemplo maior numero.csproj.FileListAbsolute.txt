@@ -1,0 +1,15 @@
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo maior numero\bin\Debug\net6.0\exemplo maior numero.exe
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo maior numero\bin\Debug\net6.0\exemplo maior numero.deps.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo maior numero\bin\Debug\net6.0\exemplo maior numero.runtimeconfig.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo maior numero\bin\Debug\net6.0\exemplo maior numero.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo maior numero\bin\Debug\net6.0\exemplo maior numero.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo maior numero\obj\Debug\net6.0\exemplo maior numero.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo maior numero\obj\Debug\net6.0\exemplo maior numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo maior numero\obj\Debug\net6.0\exemplo maior numero.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo maior numero\obj\Debug\net6.0\exemplo maior numero.AssemblyInfo.cs
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo maior numero\obj\Debug\net6.0\exemplo maior numero.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo maior numero\obj\Debug\net6.0\exemplo maior numero.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo maior numero\obj\Debug\net6.0\refint\exemplo maior numero.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo maior numero\obj\Debug\net6.0\exemplo maior numero.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo maior numero\obj\Debug\net6.0\exemplo maior numero.genruntimeconfig.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Aula Vetores\exemplo maior numero\obj\Debug\net6.0\ref\exemplo maior numero.dll
