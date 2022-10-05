@@ -12,37 +12,29 @@ namespace ex15
 
         static void Main(string[] args)
         {
-            int t = 5, i, j, posicao = 4;
+            int t = 5, i, j;
             int[] entrada = new int[t];
             int[] saida = new int[t];
-            int[] extra = new int[t];
-
-
+            
             for (i = 0; i < t; i++)
             {
                 Console.WriteLine("digite um inteiro: \n");
                 entrada[i] = int.Parse(Console.ReadLine());
                 
+                saida[4-i] = entrada[i];
                
             }
+            
             for (j = 0; j < t; j++)
             {
-                extra[posicao] = entrada[j];
-
-                posicao--;
+                Console.Write("[" + j + "]=" + entrada[j]+"   ");
             }
 
-
-
-            for (j = 0; j < t; j++)
-            {
-                Console.WriteLine("posicao:"+j+" " + saida[j]);
-            }
-
+            Console.WriteLine("\n");
 
             for (j = 0; j < t; j++)
             {
-                Console.WriteLine("saida" + saida[j]);
+                Console.Write("[" + j + "]=" + saida[j]+"   ");
             }
 
         }    
