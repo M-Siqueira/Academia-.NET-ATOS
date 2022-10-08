@@ -34,32 +34,77 @@ namespace ex04
             string nome;
             int numero;
 
-
-
-            Console.WriteLine("decisao:");
-            numero = int.Parse(Console.ReadLine());
-
-
-
-            switch (numero)
+            while (true)
             {
-                case 1:
 
-                    Console.WriteLine("nome da cripto:");
-                    nome = Console.ReadLine();
+                Console.WriteLine("cryptomoedas:\n");
+                Console.WriteLine("1- cadastro de crypto:\n");
+                Console.WriteLine("2- listar crypto:\n");
+                Console.WriteLine("3- remover crypto:\n");
+                Console.WriteLine("4- sair:\n");
+                Console.WriteLine("opção:\n");
+                numero = int.Parse(Console.ReadLine());
+                Console.Beep();
 
-                    string maiuscula = nome.ToUpper();
+                switch (numero)
+                {
+                    case 1:
+                        //cadastrar as cryptos maiusculas sem permitir duplicidade na lista
+                        Console.WriteLine("nome da cripto:");
+                        nome = Console.ReadLine();
 
-                    Console.WriteLine(maiuscula);
+                        string maiuscula = nome.ToUpper();
+                        Console.WriteLine("\n");
 
-                    break;
-                case 2:
-                    //cod
-                    break;
-                case 3:
-                    //cod
-                    break;
-            }
+                        if (criptomoeda.Contains(maiuscula))
+                        {
+                            Console.WriteLine("crypto já existente");
+                            Console.WriteLine("\n");
+                            break;
+                        }
+                        else
+                        {
+                            criptomoeda.Add(maiuscula);
+
+                            Console.WriteLine(maiuscula + " anexado na lista.");
+                            Console.WriteLine("\n");
+                        }
+
+                        break;
+                    case 2:
+                        //listar crypto
+                        foreach(string s in criptomoeda)
+                        {
+                            Console.WriteLine(s);
+                        }
+
+                        break;
+                    case 3:
+                        //deletar crypto
+
+                        Console.WriteLine("qual cripto deletar?: \n");
+                        string apagar = Console.ReadLine().ToUpper();
+
+                        if (criptomoeda.Contains(apagar))
+                        {
+
+                            criptomoeda.Remove(apagar);
+                            Console.WriteLine("crypto já apagada");
+                            Console.WriteLine("\n");
+                            break;
+                        }
+
+                        break;
+                    case 4:
+                        //sair
+                        return;
+                }//fechamento do swhitch
+            }//fechamento do while.
+
+
+
+
+
 
 
 
