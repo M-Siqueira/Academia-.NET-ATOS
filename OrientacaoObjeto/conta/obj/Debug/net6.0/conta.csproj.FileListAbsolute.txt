@@ -1,0 +1,15 @@
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\conta\bin\Debug\net6.0\conta.exe
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\conta\bin\Debug\net6.0\conta.deps.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\conta\bin\Debug\net6.0\conta.runtimeconfig.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\conta\bin\Debug\net6.0\conta.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\conta\bin\Debug\net6.0\conta.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\conta\obj\Debug\net6.0\conta.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\conta\obj\Debug\net6.0\conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\conta\obj\Debug\net6.0\conta.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\conta\obj\Debug\net6.0\conta.AssemblyInfo.cs
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\conta\obj\Debug\net6.0\conta.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\conta\obj\Debug\net6.0\conta.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\conta\obj\Debug\net6.0\refint\conta.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\conta\obj\Debug\net6.0\conta.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\conta\obj\Debug\net6.0\conta.genruntimeconfig.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\conta\obj\Debug\net6.0\ref\conta.dll

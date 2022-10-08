@@ -1,0 +1,15 @@
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\exemploCarro\bin\Debug\net6.0\exemploCarro.exe
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\exemploCarro\bin\Debug\net6.0\exemploCarro.deps.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\exemploCarro\bin\Debug\net6.0\exemploCarro.runtimeconfig.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\exemploCarro\bin\Debug\net6.0\exemploCarro.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\exemploCarro\bin\Debug\net6.0\exemploCarro.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\exemploCarro\obj\Debug\net6.0\exemploCarro.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\exemploCarro\obj\Debug\net6.0\exemploCarro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\exemploCarro\obj\Debug\net6.0\exemploCarro.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\exemploCarro\obj\Debug\net6.0\exemploCarro.AssemblyInfo.cs
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\exemploCarro\obj\Debug\net6.0\exemploCarro.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\exemploCarro\obj\Debug\net6.0\exemploCarro.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\exemploCarro\obj\Debug\net6.0\refint\exemploCarro.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\exemploCarro\obj\Debug\net6.0\exemploCarro.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\exemploCarro\obj\Debug\net6.0\exemploCarro.genruntimeconfig.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\exemploCarro\obj\Debug\net6.0\ref\exemploCarro.dll

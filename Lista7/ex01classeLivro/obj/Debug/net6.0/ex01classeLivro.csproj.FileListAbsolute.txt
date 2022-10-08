@@ -1,0 +1,15 @@
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista7\ex01classeLivro\bin\Debug\net6.0\ex01classeLivro.exe
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista7\ex01classeLivro\bin\Debug\net6.0\ex01classeLivro.deps.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista7\ex01classeLivro\bin\Debug\net6.0\ex01classeLivro.runtimeconfig.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista7\ex01classeLivro\bin\Debug\net6.0\ex01classeLivro.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista7\ex01classeLivro\bin\Debug\net6.0\ex01classeLivro.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista7\ex01classeLivro\obj\Debug\net6.0\ex01classeLivro.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista7\ex01classeLivro\obj\Debug\net6.0\ex01classeLivro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista7\ex01classeLivro\obj\Debug\net6.0\ex01classeLivro.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista7\ex01classeLivro\obj\Debug\net6.0\ex01classeLivro.AssemblyInfo.cs
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista7\ex01classeLivro\obj\Debug\net6.0\ex01classeLivro.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista7\ex01classeLivro\obj\Debug\net6.0\ex01classeLivro.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista7\ex01classeLivro\obj\Debug\net6.0\refint\ex01classeLivro.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista7\ex01classeLivro\obj\Debug\net6.0\ex01classeLivro.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista7\ex01classeLivro\obj\Debug\net6.0\ex01classeLivro.genruntimeconfig.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista7\ex01classeLivro\obj\Debug\net6.0\ref\ex01classeLivro.dll

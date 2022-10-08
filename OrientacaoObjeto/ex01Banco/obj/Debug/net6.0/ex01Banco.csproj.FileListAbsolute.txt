@@ -1,0 +1,15 @@
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ex01Banco\bin\Debug\net6.0\ex01Banco.exe
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ex01Banco\bin\Debug\net6.0\ex01Banco.deps.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ex01Banco\bin\Debug\net6.0\ex01Banco.runtimeconfig.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ex01Banco\bin\Debug\net6.0\ex01Banco.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ex01Banco\bin\Debug\net6.0\ex01Banco.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ex01Banco\obj\Debug\net6.0\ex01Banco.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ex01Banco\obj\Debug\net6.0\ex01Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ex01Banco\obj\Debug\net6.0\ex01Banco.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ex01Banco\obj\Debug\net6.0\ex01Banco.AssemblyInfo.cs
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ex01Banco\obj\Debug\net6.0\ex01Banco.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ex01Banco\obj\Debug\net6.0\ex01Banco.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ex01Banco\obj\Debug\net6.0\refint\ex01Banco.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ex01Banco\obj\Debug\net6.0\ex01Banco.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ex01Banco\obj\Debug\net6.0\ex01Banco.genruntimeconfig.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ex01Banco\obj\Debug\net6.0\ref\ex01Banco.dll
