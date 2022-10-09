@@ -4,20 +4,32 @@
     {
         static void Main(string[] args)
         {
-            int t = 3,somaLinha = 0,somaColuna = 0,aux, aux2,i,j; 
+            //            2) Solicite ao usuário, preencher uma Matriz 3x3
+
+            //Informe ao usuário:
+            //*A soma dos elementos de cada linha
+
+            //    -Ex: Linha 1: 30
+
+            //         Linha 2: 17
+            //* A soma dos elementos de cada coluna
+
+            //    -Ex: Coluna 1: 23
+
+            //         Coluna 2: 36
+
+            int t = 3, somaColuna, i, j;
 
             int[,] mat = new int[t, t];
 
-            for( i = 0; i < t; i++)
+            int[] m1 = new int[t];
+
+            for (i = 0; i < t; i++)
             {
-                for( j = 0; j < t; j++)
+                for (j = 0; j < t; j++)
                 {
-                    Console.WriteLine("inserir o valor de L: ["+i+"] C:["+j+"] ");
-                    mat[i,j] = int.Parse(Console.ReadLine());
-
-                    somaLinha += mat[i,j];
-
-                    somaColuna += mat[i,j];
+                    Console.WriteLine("inserir o valor de L: [" + i + "] C:[" + j + "] ");
+                    mat[i, j] = int.Parse(Console.ReadLine());
 
                 }
             }
@@ -26,21 +38,31 @@
             {
                 for (j = 0; j < t; j++)
                 {
-                    somaLinha += mat[i, j];
 
+                    m1[i] += mat[i, j];
                 }
+
+
+                Console.WriteLine("somada linha: " + m1[i]);
+
             }
+            Console.WriteLine("\n");
 
             for (j = 0; j < t; j++)
             {
+                somaColuna = 0;
+
                 for (i = 0; i < t; i++)
                 {
                     somaColuna += mat[i, j];
-
                 }
+                m1[j] = somaColuna;
+                Console.WriteLine("somada coluna: " + m1[j]);
             }
-            Console.WriteLine(":"+somaLinha);
-            Console.WriteLine(":"+somaColuna);
+
+            Console.WriteLine("\n");
+            // Console.WriteLine(":"+somaLinha);
+            //Console.WriteLine(":"+somaColuna);
 
 
         }
