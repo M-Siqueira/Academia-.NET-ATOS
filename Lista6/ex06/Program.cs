@@ -88,10 +88,6 @@
             } while (true);
 
 
-
-
-
-
             //listando os nomes.
 
             foreach (var item in nomePessoas)
