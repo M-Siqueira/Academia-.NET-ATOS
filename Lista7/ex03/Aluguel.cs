@@ -8,19 +8,22 @@ namespace ex03
 {
     internal class Aluguel
     {
-        private string kmInicio;
+        
         private int taxaAluguel;
         private int taxaSeguro;
-        private string cartaoCredito;
         private string dataLocacao;
+        private Carro carro;
+        private Cliente cliente;
 
-        public Aluguel(string kmInicio, int taxaAluguel, int taxaSeguro, string cartaoCredito,string dataLocacao)
+
+
+        public Aluguel( int taxaAluguel, int taxaSeguro,string dataLocacao,Carro carro, Cliente cliente)
         {
-            this.kmInicio = kmInicio;
             this.taxaAluguel = taxaAluguel;
             this.taxaSeguro = taxaSeguro;
-            this.cartaoCredito = cartaoCredito;
             this.dataLocacao = dataLocacao;
+            this.carro = carro;  
+            this.cliente = cliente;
 
         }
     }

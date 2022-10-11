@@ -12,14 +12,14 @@ namespace ex03
         private int idade;
         private int datacnh;
         private string cartao;
-        private bool x = false;
+       
 
-        public Cliente(string nome, int  idade, int datacnh, string cartao)
+        public Cliente(string nome, int  idade, int datacnh)
         {
             this.nome = nome;
             this.idade = idade;
             this.datacnh = datacnh;
-            this.cartao = cartao;
+            
 
         }
 

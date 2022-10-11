@@ -21,6 +21,23 @@ namespace ex03
             this.placa = placa;
 
         }
+        
+        public string getMarca(string cor)
+        {
+            return this.marca;
+        }
+        public string getModelo(string cor)
+        {
+            return this.modelo;
+        }
+        public string getCor(string cor)
+        {
+            return this.cor;
+        }
+        public string getPlaca(string cor)
+        {
+            return this.placa;
+        }
 
 
 
