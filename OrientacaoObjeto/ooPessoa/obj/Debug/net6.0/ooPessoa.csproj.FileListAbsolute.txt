@@ -1,0 +1,15 @@
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ooPessoa\bin\Debug\net6.0\ooPessoa.exe
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ooPessoa\bin\Debug\net6.0\ooPessoa.deps.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ooPessoa\bin\Debug\net6.0\ooPessoa.runtimeconfig.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ooPessoa\bin\Debug\net6.0\ooPessoa.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ooPessoa\bin\Debug\net6.0\ooPessoa.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ooPessoa\obj\Debug\net6.0\ooPessoa.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ooPessoa\obj\Debug\net6.0\ooPessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ooPessoa\obj\Debug\net6.0\ooPessoa.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ooPessoa\obj\Debug\net6.0\ooPessoa.AssemblyInfo.cs
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ooPessoa\obj\Debug\net6.0\ooPessoa.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ooPessoa\obj\Debug\net6.0\ooPessoa.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ooPessoa\obj\Debug\net6.0\refint\ooPessoa.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ooPessoa\obj\Debug\net6.0\ooPessoa.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ooPessoa\obj\Debug\net6.0\ooPessoa.genruntimeconfig.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\ooPessoa\obj\Debug\net6.0\ref\ooPessoa.dll
