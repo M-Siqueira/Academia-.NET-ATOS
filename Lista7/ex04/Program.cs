@@ -10,77 +10,42 @@ namespace ex04
 
         static void Main(string[] args)
         {
-            string nome, pai, mae;
-            int idade;
+            
+            Pessoa pAvo = new Pessoa();
 
-            Console.WriteLine("nome:");
-            nome = Console.ReadLine();
-
-            Console.WriteLine("idade:");
-            idade = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("nome do pai:");
-            pai = Console.ReadLine();
-
-            Console.WriteLine("nome da mae:");
-            mae = Console.ReadLine();
-
-            Pessoa pAvo = new Pessoa(nome, idade, pai, mae);
-
-            pAvo.getNome(nome);
-            pAvo.getIdade(idade); ;
-            pAvo.getPai(pai);
-            pAvo.getMae(mae);
+            pAvo.nome = "atolero";
+            pAvo.idade = 20;
+            pAvo.pai = "barro";
+            pAvo.mae = "terra";
 
 
 
             //===========================================================
-            Console.WriteLine("nome:");
-            nome = Console.ReadLine();
 
-            Console.WriteLine("idade:");
-            idade = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("nome do pai:");
-            pai = Console.ReadLine();
+            Pessoa pPai = new Pessoa();
 
-            Console.WriteLine("nome da mae:");
-            mae = Console.ReadLine();
-
-            Pessoa pPai = new Pessoa(nome, idade, pai, mae);
-
-            pPai.getNome(nome);
-            pPai.getIdade(idade); ;
-            pPai.getPai(pai);
-            pPai.getMae(mae);
+            pPai.nome = "araldite";
+            pPai.idade = 20;
+            pPai.pai = "aroldo";
+            pPai.mae = "aralda";
 
 
             //===========================================================
 
-            Console.WriteLine("nome:");
-            nome = Console.ReadLine();
 
-            Console.WriteLine("idade:");
-            idade = int.Parse(Console.ReadLine());
+            Pessoa filho = new Pessoa();
 
-            Console.WriteLine("nome do pai:");
-            pai = Console.ReadLine();
-
-            Console.WriteLine("nome da mae:");
-            mae = Console.ReadLine();
-
-            Pessoa filho = new Pessoa(nome, idade, pai, mae);
-
-            filho.getNome(nome);
-            filho.getIdade(idade); ;
-            filho.getPai(pai);
-            filho.getMae(mae);
+            filho.nome = "aldinho";
+            filho.idade = 20;
+            filho.pai = "aldo";
+            filho.mae = "alda";
 
             //=======================================================        
 
-            filho.mostraMae(mae);
-            pPai.mostraMae(mae);
-            pAvo.mostraMae(mae);
+           pai = filho.mostraPai();
+
+
 
 
         }

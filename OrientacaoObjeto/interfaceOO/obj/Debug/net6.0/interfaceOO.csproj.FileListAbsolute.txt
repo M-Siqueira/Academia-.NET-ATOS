@@ -1,0 +1,15 @@
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\interfaceOO\bin\Debug\net6.0\interfaceOO.exe
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\interfaceOO\bin\Debug\net6.0\interfaceOO.deps.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\interfaceOO\bin\Debug\net6.0\interfaceOO.runtimeconfig.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\interfaceOO\bin\Debug\net6.0\interfaceOO.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\interfaceOO\bin\Debug\net6.0\interfaceOO.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\interfaceOO\obj\Debug\net6.0\interfaceOO.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\interfaceOO\obj\Debug\net6.0\interfaceOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\interfaceOO\obj\Debug\net6.0\interfaceOO.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\interfaceOO\obj\Debug\net6.0\interfaceOO.AssemblyInfo.cs
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\interfaceOO\obj\Debug\net6.0\interfaceOO.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\interfaceOO\obj\Debug\net6.0\interfaceOO.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\interfaceOO\obj\Debug\net6.0\refint\interfaceOO.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\interfaceOO\obj\Debug\net6.0\interfaceOO.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\interfaceOO\obj\Debug\net6.0\interfaceOO.genruntimeconfig.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\interfaceOO\obj\Debug\net6.0\ref\interfaceOO.dll

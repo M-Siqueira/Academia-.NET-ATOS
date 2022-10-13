@@ -1,0 +1,15 @@
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\Animais\bin\Debug\net6.0\Animais.exe
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\Animais\bin\Debug\net6.0\Animais.deps.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\Animais\bin\Debug\net6.0\Animais.runtimeconfig.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\Animais\bin\Debug\net6.0\Animais.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\Animais\bin\Debug\net6.0\Animais.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\Animais\obj\Debug\net6.0\Animais.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\Animais\obj\Debug\net6.0\Animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\Animais\obj\Debug\net6.0\Animais.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\Animais\obj\Debug\net6.0\Animais.AssemblyInfo.cs
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\Animais\obj\Debug\net6.0\Animais.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\Animais\obj\Debug\net6.0\Animais.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\Animais\obj\Debug\net6.0\refint\Animais.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\Animais\obj\Debug\net6.0\Animais.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\Animais\obj\Debug\net6.0\Animais.genruntimeconfig.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\Animais\obj\Debug\net6.0\ref\Animais.dll

@@ -1,0 +1,15 @@
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\OOestacionamento\bin\Debug\net6.0\OOestacionamento.exe
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\OOestacionamento\bin\Debug\net6.0\OOestacionamento.deps.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\OOestacionamento\bin\Debug\net6.0\OOestacionamento.runtimeconfig.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\OOestacionamento\bin\Debug\net6.0\OOestacionamento.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\OOestacionamento\bin\Debug\net6.0\OOestacionamento.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\OOestacionamento\obj\Debug\net6.0\OOestacionamento.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\OOestacionamento\obj\Debug\net6.0\OOestacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\OOestacionamento\obj\Debug\net6.0\OOestacionamento.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\OOestacionamento\obj\Debug\net6.0\OOestacionamento.AssemblyInfo.cs
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\OOestacionamento\obj\Debug\net6.0\OOestacionamento.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\OOestacionamento\obj\Debug\net6.0\OOestacionamento.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\OOestacionamento\obj\Debug\net6.0\refint\OOestacionamento.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\OOestacionamento\obj\Debug\net6.0\OOestacionamento.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\OOestacionamento\obj\Debug\net6.0\OOestacionamento.genruntimeconfig.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\OrientacaoObjeto\OOestacionamento\obj\Debug\net6.0\ref\OOestacionamento.dll
