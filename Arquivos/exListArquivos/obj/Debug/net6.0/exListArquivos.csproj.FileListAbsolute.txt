@@ -1,0 +1,15 @@
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exListArquivos\bin\Debug\net6.0\exListArquivos.exe
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exListArquivos\bin\Debug\net6.0\exListArquivos.deps.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exListArquivos\bin\Debug\net6.0\exListArquivos.runtimeconfig.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exListArquivos\bin\Debug\net6.0\exListArquivos.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exListArquivos\bin\Debug\net6.0\exListArquivos.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exListArquivos\obj\Debug\net6.0\exListArquivos.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exListArquivos\obj\Debug\net6.0\exListArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exListArquivos\obj\Debug\net6.0\exListArquivos.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exListArquivos\obj\Debug\net6.0\exListArquivos.AssemblyInfo.cs
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exListArquivos\obj\Debug\net6.0\exListArquivos.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exListArquivos\obj\Debug\net6.0\exListArquivos.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exListArquivos\obj\Debug\net6.0\refint\exListArquivos.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exListArquivos\obj\Debug\net6.0\exListArquivos.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exListArquivos\obj\Debug\net6.0\exListArquivos.genruntimeconfig.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exListArquivos\obj\Debug\net6.0\ref\exListArquivos.dll

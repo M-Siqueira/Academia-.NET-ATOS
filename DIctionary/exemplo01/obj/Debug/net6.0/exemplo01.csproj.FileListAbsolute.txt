@@ -1,0 +1,15 @@
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\DIctionary\exemplo01\bin\Debug\net6.0\exemplo01.exe
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\DIctionary\exemplo01\bin\Debug\net6.0\exemplo01.deps.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\DIctionary\exemplo01\bin\Debug\net6.0\exemplo01.runtimeconfig.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\DIctionary\exemplo01\bin\Debug\net6.0\exemplo01.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\DIctionary\exemplo01\bin\Debug\net6.0\exemplo01.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\DIctionary\exemplo01\obj\Debug\net6.0\exemplo01.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\DIctionary\exemplo01\obj\Debug\net6.0\exemplo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\DIctionary\exemplo01\obj\Debug\net6.0\exemplo01.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\DIctionary\exemplo01\obj\Debug\net6.0\exemplo01.AssemblyInfo.cs
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\DIctionary\exemplo01\obj\Debug\net6.0\exemplo01.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\DIctionary\exemplo01\obj\Debug\net6.0\exemplo01.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\DIctionary\exemplo01\obj\Debug\net6.0\refint\exemplo01.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\DIctionary\exemplo01\obj\Debug\net6.0\exemplo01.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\DIctionary\exemplo01\obj\Debug\net6.0\exemplo01.genruntimeconfig.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\DIctionary\exemplo01\obj\Debug\net6.0\ref\exemplo01.dll

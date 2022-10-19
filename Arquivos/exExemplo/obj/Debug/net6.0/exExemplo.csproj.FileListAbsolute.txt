@@ -1,0 +1,15 @@
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exExemplo\bin\Debug\net6.0\exExemplo.exe
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exExemplo\bin\Debug\net6.0\exExemplo.deps.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exExemplo\bin\Debug\net6.0\exExemplo.runtimeconfig.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exExemplo\bin\Debug\net6.0\exExemplo.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exExemplo\bin\Debug\net6.0\exExemplo.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exExemplo\obj\Debug\net6.0\exExemplo.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exExemplo\obj\Debug\net6.0\exExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exExemplo\obj\Debug\net6.0\exExemplo.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exExemplo\obj\Debug\net6.0\exExemplo.AssemblyInfo.cs
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exExemplo\obj\Debug\net6.0\exExemplo.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exExemplo\obj\Debug\net6.0\exExemplo.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exExemplo\obj\Debug\net6.0\refint\exExemplo.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exExemplo\obj\Debug\net6.0\exExemplo.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exExemplo\obj\Debug\net6.0\exExemplo.genruntimeconfig.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\exExemplo\obj\Debug\net6.0\ref\exExemplo.dll

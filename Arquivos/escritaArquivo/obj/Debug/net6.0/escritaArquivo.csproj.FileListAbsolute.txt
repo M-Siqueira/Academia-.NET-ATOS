@@ -1,0 +1,15 @@
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\escritaArquivo\bin\Debug\net6.0\escritaArquivo.exe
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\escritaArquivo\bin\Debug\net6.0\escritaArquivo.deps.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\escritaArquivo\bin\Debug\net6.0\escritaArquivo.runtimeconfig.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\escritaArquivo\bin\Debug\net6.0\escritaArquivo.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\escritaArquivo\bin\Debug\net6.0\escritaArquivo.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\escritaArquivo\obj\Debug\net6.0\escritaArquivo.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\escritaArquivo\obj\Debug\net6.0\escritaArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\escritaArquivo\obj\Debug\net6.0\escritaArquivo.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\escritaArquivo\obj\Debug\net6.0\escritaArquivo.AssemblyInfo.cs
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\escritaArquivo\obj\Debug\net6.0\escritaArquivo.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\escritaArquivo\obj\Debug\net6.0\escritaArquivo.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\escritaArquivo\obj\Debug\net6.0\refint\escritaArquivo.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\escritaArquivo\obj\Debug\net6.0\escritaArquivo.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\escritaArquivo\obj\Debug\net6.0\escritaArquivo.genruntimeconfig.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Arquivos\escritaArquivo\obj\Debug\net6.0\ref\escritaArquivo.dll

@@ -21,7 +21,7 @@ namespace ex07
             int option,passageiros;
             
             Elevador E = new Elevador();
-
+            int andar;
             E.inicializa();
 
 
@@ -34,13 +34,17 @@ namespace ex07
                 Console.Beep();
                 Console.WriteLine("\n");
 
-                if (option == 1)//sobir
+                if (option == 1)//subir
                 {
+                    E.sobe(andar);
+
+
+
 
                     Console.WriteLine("quantos passageiros?");
                     passageiros = int.Parse(Console.ReadLine());
 
-                    E.sobe(passageiros);
+                    
                     
 
                 }else if(option == 2)//descer
