@@ -15,7 +15,7 @@ namespace exListArquivos
 
             string fraseFim = frase.ToUpper();
 
-            escritor.Write(fraseFim);
+            escritor.WriteLine(fraseFim);
 
             escritor.Flush();// usar flush seprte como boa pratica para manter dads salvos;
 

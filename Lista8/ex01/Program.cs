@@ -49,7 +49,10 @@
 
             Personagem personagem = new Personagem();
 
-            personagem.ExibeDados(nome, poder);
+            personagem.ExibeDados(list, list2);
+
+            
+
         }
     }
 }

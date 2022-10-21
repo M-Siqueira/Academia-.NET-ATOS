@@ -27,10 +27,22 @@ namespace ex01
         public int PoderPerson { get => _poderPerson; set => _poderPerson = value; }
 
 
-        public void ExibeDados (string nome, int poder)
+        public void ExibeDados (List<string>list, List<int> list2)
         {
+            for(int i = 0; i < list.Count; i++)
+            {
+                int maiorValor = list2.Max();
 
-            Console.WriteLine("o personagem "+nome+" tem poder : "+poder);
+                if (list2[i] == maiorValor)
+
+                {
+                    Console.WriteLine("nome: " + list[i] + "poder: "+ list2[i]);    
+                }
+
+              
+            }
+            
+
 
 
         }
