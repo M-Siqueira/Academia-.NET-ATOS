@@ -24,6 +24,19 @@ namespace Desafio01
 
         public Pessoa(string indicaLinha, string nome, string telefone, string cidade, string rg, string cpf)
         {
+            this._indicadorLinha = indicaLinha;
+            this._nome = nome;
+            this._telefone = telefone;
+            this._cidade = cidade;
+            this._rg = rg;
+            this._cpf = cpf;
+
+        }
+
+        public static void buscaDados(List<string> listaAlunos, List<string> listaCompleta )
+        {
+
+           //Aluno a1 = new Aluno();
 
         }
     }

@@ -10,48 +10,107 @@ namespace Desafio01
     internal class Arquivos
     {
 
-        public static void importaArquivo(List<string> listaCompleta, string nomeArquivo)
+        public static void importaArquivo(List<string> listaCompleta, List<string> listaAlunos, string nomeArquivo)
         {
-            StreamReader leitor = new StreamReader(nomeArquivo, Encoding.UTF8); //ler o arquivo txt e importar para lista
-
             string linha;
+
             string[] dadosLinha;
 
-            Pessoa pessoa;
+            int numeroLinhas = 0;
+
+            StreamReader leitor = new StreamReader(nomeArquivo, Encoding.UTF8); //ler o arquivo txt e importar para lista
             do
             {
                 linha = leitor.ReadLine();
-                dadosLinha = linha.Split(";");
 
-                pessoa = new Aluno(dadosLinha[0], dadosLinha[1], dadosLinha[2], dadosLinha[3], dadosLinha[4], dadosLinha[5], dadosLinha[6], dadosLinha[7], dadosLinha[8], dadosLinha[9]);
-                listaCompleta.Add(linha);
+                numeroLinhas++;
 
-                if (dadosLinha[0] == "Z")
+                dadosLinha = linha.Split("-");
+
+                int num = dadosLinha.Count();
+
+                int contaAluno = 0;
+                int contaPessoa = 0;
+
+                string inicial;
+
+                inicial = dadosLinha[0];
+
+
+
+                if (inicial == "X")     //inicia com x ignora linha
                 {
-                    //dados pessoas
+                    //Console.WriteLine("inicial x e tem " + num + " dados" );teste
 
-                }else if(dadosLinha[0] == "Y")
+                    continue;
+                }
+                if (inicial == "Y")//inicia com y é aluno
                 {
-                    //dados pessoas que sao alunos
+                    //Console.WriteLine("inicial y");teste
+
+                    for (int i = 0; i < num; i++)
+                    {
+                        listaAlunos.Add(dadosLinha[i]);
+
+                        contaAluno++;
+                    }
+
+
+                    continue;
+                }
+                if (inicial == "Z")//inicia com z é pessoa
+                {
+                    //Console.WriteLine("inicial z");teste
+
+                    for (int i = 0; i < num; i++)
+                    {
+
+                        listaCompleta.Add(dadosLinha[i]);
+
+                        contaPessoa++;
+
+                    }
+
+                    continue;
                 }
 
-                
-            }while (leitor.EndOfStream);
 
+
+            } while (!leitor.EndOfStream);
+
+            Console.WriteLine("numero de linhas lidas " + numeroLinhas);//teste
 
             leitor.Close();
+
+
+
 
             //teoricamente a lista esta populada por completo
         }
 
 
 
-        public static void mostraArquivos(List<string> listaCompleta)
+        public static void mostraArquivos(List<string> listaCompleta, List<string> listaAlunos)
         {
-           foreach (string linha in listaCompleta)
+            
+
+            Console.WriteLine("-----------------------------");
+            Console.WriteLine("lista completa de pessoas");
+            foreach (string linha in listaCompleta)
             {
-                Console.WriteLine(linha);
+                Console.Write("[" + linha + "]-");
             }
+
+            Console.WriteLine("-----------------------------");
+            Console.WriteLine("\n");
+            Console.WriteLine("-----------------------------");
+            Console.WriteLine("lista de alunos");
+            foreach (string linha in listaAlunos)
+            {
+
+                Console.Write("["+linha+"]-");
+            }
+            Console.WriteLine("-----------------------------");
         }
 
 
@@ -61,19 +120,30 @@ namespace Desafio01
 
 
 
-
-
-
-
-
-        public void gravaArquivo()
+        public static void mostraAlunos(List<string> listaAlunos)
         {
-            StreamWriter gravador = new StreamWriter("arquivo.txt",append:true);//gravar o arquivo no txt apendando.
+            Console.WriteLine("-----------------------------");
+            Console.WriteLine("lista de alunos");
+            foreach (string linha in listaAlunos)
+            {
 
-            gravador.Flush();//boa pratica 
-            gravador.Close();//fecha gravalçao
+                Console.Write("[" + linha + "]-");
+            }
+            Console.WriteLine("-----------------------------");
         }
 
+
+        public static void mostraListaCompleta(List<string> listaCompleta)
+        {
+            Console.WriteLine("-----------------------------");
+            Console.WriteLine("lista de alunos");
+
+            foreach (string linha in listaCompleta)
+            {
+                Console.Write("[" + linha + "]-");
+            }
+            Console.WriteLine("-----------------------------");
+        }
 
 
     }
