@@ -17,6 +17,7 @@ namespace ex02
                 lista.Add(leitor.ReadLine());
 
             }while(!leitor.EndOfStream);
+            leitor.Close();
         }
 
 
@@ -25,15 +26,19 @@ namespace ex02
         {
             StreamWriter cadastro = new StreamWriter( "email.csv" , append:true);
 
+            listaEmail.Add(emailM);
             cadastro.WriteLine(emailM);
             cadastro.Flush();
             cadastro.Close();
 
         }
 
-        public static void listaEmail()
+        public static void listaEmail(List<string> listaEmail)
         {
-
+            foreach (string email in listaEmail)
+            {
+                Console.WriteLine(email);
+            }
         }
 
 

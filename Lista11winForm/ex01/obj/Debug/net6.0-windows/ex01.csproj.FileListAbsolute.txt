@@ -1,0 +1,17 @@
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista11winForm\ex01\bin\Debug\net6.0-windows\ex01.exe
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista11winForm\ex01\bin\Debug\net6.0-windows\ex01.deps.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista11winForm\ex01\bin\Debug\net6.0-windows\ex01.runtimeconfig.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista11winForm\ex01\bin\Debug\net6.0-windows\ex01.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista11winForm\ex01\bin\Debug\net6.0-windows\ex01.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista11winForm\ex01\obj\Debug\net6.0-windows\ex01.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista11winForm\ex01\obj\Debug\net6.0-windows\ex01.Form1.resources
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista11winForm\ex01\obj\Debug\net6.0-windows\ex01.csproj.GenerateResource.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista11winForm\ex01\obj\Debug\net6.0-windows\ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista11winForm\ex01\obj\Debug\net6.0-windows\ex01.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista11winForm\ex01\obj\Debug\net6.0-windows\ex01.AssemblyInfo.cs
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista11winForm\ex01\obj\Debug\net6.0-windows\ex01.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista11winForm\ex01\obj\Debug\net6.0-windows\ex01.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista11winForm\ex01\obj\Debug\net6.0-windows\refint\ex01.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista11winForm\ex01\obj\Debug\net6.0-windows\ex01.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista11winForm\ex01\obj\Debug\net6.0-windows\ex01.genruntimeconfig.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\Lista11winForm\ex01\obj\Debug\net6.0-windows\ref\ex01.dll
