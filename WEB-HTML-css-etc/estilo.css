@@ -1,0 +1,40 @@
+body{
+    background-color: thistle;
+    
+    background-image:url(Cthulhu.jpg) ;
+}
+
+h1{
+    color: aquamarine;
+}
+
+h2{
+    color: rgb(69, 102, 91);
+}
+
+h3{
+    color: rgb(139, 151, 72);
+}
+
+h4{
+    color: rgb(115, 189, 46);
+}
+
+div{
+    background-color: blueviolet;
+}
+
+p{
+    color: black;
+}
+
+a{
+    color: blueviolet;
+}
+a:visited{
+    color: blue;
+}
+
+a:link{
+    color: orange;
+}

@@ -1,12 +1,50 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="estilo.css">
 </head>
+
 <body>
-    
+    <form name="Contato" action="pagina3.html" method="post">
+
+        <h1 class="labelForm">nome</h1> <input type="text" name="nome">
+        <br>
+        <h1 class="labelForm">sobrenome</h1><input type="text" name="sobrenome">
+        <br>
+        <h1 class="labelForm">Celular</h1><input type="tel" name="cel">
+        <br>
+        <h1 class="labelForm">cpf</h1><input type="text" name="cpf">
+        <br>
+        <h1 class="labelForm">data nascimento</h1><input type="date" name="dataNasc">
+        <br>
+        <h1 class="labelForm">senha</h1><input type="number" name="telefone">
+        <br>
+        <h1 class="labelForm">sexo</h1>
+
+        masculino <input type="radio" name="sexo" value="masculino">
+        <br>
+        feminino <input type="radio" name="sexo" value="feminino">
+        <br>
+        neutro <input type="radio" name="sexo" value="masculino">
+        <br>
+        prefiro nao informar <input type="radio" name="sexo" value="ninf">
+        <br>
+        <h1 class="labelForm">Moro com:</h1>
+        Meus pais <input type="checkbox" name="pais">
+        Meus cachorros <input type="checkbox" name="dogs">
+        Meus gatos <input type="checkbox" name="cats">
+        <br>
+
+        <input type="submit" value="Enviar mensagem">
+
+        <br>
+
+    </form>
 </body>
+
 </html>
