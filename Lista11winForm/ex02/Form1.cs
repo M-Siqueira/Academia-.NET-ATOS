@@ -27,21 +27,23 @@ namespace ex02
 
         private void button1_cadastro_Click(object sender, EventArgs e)//botao de cadastro
         {
-           
+            
 
-            if ((textBox1_nome.Text.Contains(" ")) && textBox2_email.Text.Contains("@"))
+
+            if ((textBox1_nome.Text.Contains(" ")) && textBox2_email.Text.Contains("@") )
             {
+
                 Pessoa pessoa = new Pessoa(textBox1_nome.Text.ToUpper(), textBox2_email.Text.ToUpper());
 
                 pessoaList.Add(pessoa);
             }
-            //else
-            //{
-            //    MessageBox.Show("erro de nome");
-            //}
+            else
+            {
+                MessageBox.Show("erro de nome");
+            }
 
 
-            //textBox1_listaNomes.Text += textBox1_nome.Text.ToUpper() + Environment.NewLine;
+            //textBox1_listaNomes.Text += textBox1_nome.Text.ToUpper() + Environment.NewLine; //comentado para nao aparecer direto nos box 
             //textBox2_listaEmail.Text += textBox2_email.Text.ToUpper() + Environment.NewLine;
             textBox1_nome.Clear();
             textBox2_email.Clear();
