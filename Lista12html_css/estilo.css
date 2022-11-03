@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(233, 207, 168);
+    background-image: url( imgIndex.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    position:static ;
+    text-align: end;
+    text-decoration: dashed;
+    margin-top: 10%;
+}
+
+#boxPropaganda{
+    position:static ;
+    text-align: center;
+    background-color: rgb(199, 204, 131);
+    margin-right: 90%;
+    border-style: double;
+    padding: auto;
+    border-radius: 10px;
+}
+
+#boxBotao{
+    /* background-color: rgb(15, 15, 5);
+    margin-right: 50%;
+    margin-left: 50%;
+    margin-top: 10%; */
+}
+
+#tabela{
+    
+    background-color: aqua;
+    
+}
+#boxTabela{
+    position: absolute;
+    margin-right: 20%;
+    margin-left: 80%;
+    
+}

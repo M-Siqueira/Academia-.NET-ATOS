@@ -1,0 +1,131 @@
+body{
+    background-color: aquamarine;
+}
+
+
+div.div1{   /*primeira linha horizontal*/
+background-color: rgb(20, 48, 173);
+margin-bottom: 5px;
+margin-right: 30%;
+margin-left: 20%;
+}
+div.div2{   /*segunda linha horizontal*/
+    background-color: rgb(173, 30, 20);
+    margin-bottom: 5px;
+    margin-right: 30%;
+    margin-left: 20%;
+}
+div.div3{   /*terceira linha horizontal*/
+    background-color: rgb(20, 173, 20);
+    margin-bottom: 5px;
+    margin-right: 30%;
+    margin-left: 20%;
+}
+div.div4{    /*quarta linha horizontal*/
+    background-color: rgb(142, 20, 173);
+    margin-bottom: 50px;
+    margin-right: 30%;
+    margin-left: 20%;
+}
+
+
+
+
+
+
+div.div5{   /*primeiro quadrado  horizontal*/
+    position:absolute;
+    top:20%;
+    left:20%;
+    background-color:blue;
+    border-radius:0%;
+    width:200px;
+    height:100px;
+    padding-top:50px;
+    padding-left:50px;
+}
+div.div6    {   /*segundo quadrado  horizontal*/
+    position:absolute;
+    top:60%;
+    left:20%;
+    background-color:red;
+    border-radius:0%;
+    width:200px;
+    height:100px;
+    padding-top:50px;
+    padding-left:50px;
+}
+div.div7    { /*terceiro quadrado  horizontal*/
+    position:absolute;
+    top:20%;
+    left:50%;
+    background-color:purple;
+    border-radius:0%;
+    width:200px;
+    height:100px;
+    padding-top:50px;
+    padding-left:50px;
+}
+div.div8    {   /*quarto quadrado  horizontal*/
+    position:absolute;
+    top:60%;
+    left:50%;
+    background-color:green;
+    border-radius:0%;
+    width:200px;
+    height:100px;
+    padding-top:50px;
+    padding-left:50px;
+}
+
+
+
+
+
+
+
+    div.div9{   /*primeiro oval  horizontal*/
+        position:absolute;
+        top: 100%;
+        left:20%;
+        background-color:blue;
+        border-radius:50%;
+        width:200px;
+        height:100px;
+        padding-top:50px;
+        padding-left:50px;
+    }
+    div.div10    {  /*segundo oval  horizontal*/
+        position:absolute;
+        top:140%;
+        left:20%;
+        background-color:red;
+        border-radius:50%;
+        width:200px;
+        height:100px;
+        padding-top:50px;
+        padding-left:50px;
+    }
+    div.div11    {  /*terceiro oval  horizontal*/
+        position:absolute;
+        top:100%;
+        left:50%;
+        background-color:purple;
+        border-radius:50%;
+        width:200px;
+        height:100px;
+        padding-top:50px;
+        padding-left:50px;
+    }
+    div.div12    { /*quarto oval  horizontal*/
+        position:absolute;
+        top:140%;
+        left:50%;
+        background-color:green;
+        border-radius:50%;
+        width:200px;
+        height:100px;
+        padding-top:50px;
+        padding-left:50px;
+    }
+

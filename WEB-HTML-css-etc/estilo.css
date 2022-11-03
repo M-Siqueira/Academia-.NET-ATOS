@@ -2,10 +2,28 @@ body{
     background-color: thistle;
     
     background-image:url(Cthulhu.jpg) ;
+    margin-top: 100px;
+    margin-right: 40px;
+    margin-bottom: 10px;
+    margin-left: 70px;
+
 }
 
 h1{
     color: aquamarine;
+    border-top-width: thick;
+    border-top-style: solid;
+    border-top-color: tomato;
+    border-bottom-width: thick;
+    border-bottom-style: outset;
+    border-bottom-color: rgb(59, 49, 47);
+    border-right-width: thick;
+    border-right-style: dotted;
+    border-right-color: rgb(60, 156, 132);
+    border-left-width: thick;
+    border-left-style: dashed;
+    border-left-color: rgb(152, 52, 199);
+    padding: 15px;
 }
 
 h2{
@@ -20,9 +38,7 @@ h4{
     color: rgb(115, 189, 46);
 }
 
-div{
-    background-color: blueviolet;
-}
+
 
 p{
     color: black;
@@ -37,4 +53,38 @@ a:visited{
 
 a:link{
     color: orange;
+}
+
+/* div.box{
+    background-color: rgb(47, 151, 151);
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 50px;
+    padding: 15px;
+} */
+
+#box1{
+position: absolute;
+top: 50px;
+left: 50px;
+background-color: aqua;
+}
+#box2{
+    position: absolute;
+top: 40px;
+left: 40px;
+background-color: bisque;
+}
+#box3{
+    position: absolute;
+top: 30px;
+left: 30px;
+background-color: blue;
+}
+#box4{
+    position: absolute;
+top: 20px;
+left: 20px;
+background-color: aliceblue;
 }
