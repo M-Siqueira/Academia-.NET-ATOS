@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Z27sSS/uq2ZJOXdVAeaWmmzi5pa++xcVGJ2R51RAVPc=",
+  "Source": "apiRestDotnet",
+  "BasePath": "_content/apiRestDotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

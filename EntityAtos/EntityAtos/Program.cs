@@ -149,6 +149,8 @@ namespace EntityAtos
                     {
                         List<Pessoa> lista = new List<Pessoa>();
 
+                        //LINK
+
                         lista = (from Pessoa p in contexto.Pessoas
                                  select p).Include(e => e.Emails).ToList<Pessoa>();
 
@@ -170,16 +172,35 @@ namespace EntityAtos
                         Console.WriteLine("error5");
                     }
 
-
-
-
-
-
-
-
-
                     break;
                 case 6:
+                    try
+                    {
+                    Console.WriteLine("informe o id da pessoa...");
+                        int id = int.Parse(Console.ReadLine());
+
+                        Pessoa p = contexto.Pessoas.Include(pes => pes.Emails)
+                            .FirstOrDefault(Pessoa => Pessoa.id == id);
+
+                        Console.WriteLine("nome "+p.nome);
+
+                        if(p.Emails != null)
+                        {
+                            foreach(Email email in p.Emails)
+                            {
+                                Console.WriteLine("\t"+ email.email);
+                            }
+                        }
+
+
+                    }
+                    catch(Exception ex)
+                    {
+                        throw;
+                    }
+
+
+
 
                     break;
 

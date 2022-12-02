@@ -1,0 +1,15 @@
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\CryptoColecoes\crypto\bin\Debug\net6.0\crypto.exe
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\CryptoColecoes\crypto\bin\Debug\net6.0\crypto.deps.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\CryptoColecoes\crypto\bin\Debug\net6.0\crypto.runtimeconfig.json
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\CryptoColecoes\crypto\bin\Debug\net6.0\crypto.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\CryptoColecoes\crypto\bin\Debug\net6.0\crypto.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\CryptoColecoes\crypto\obj\Debug\net6.0\crypto.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\CryptoColecoes\crypto\obj\Debug\net6.0\crypto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\CryptoColecoes\crypto\obj\Debug\net6.0\crypto.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\CryptoColecoes\crypto\obj\Debug\net6.0\crypto.AssemblyInfo.cs
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\CryptoColecoes\crypto\obj\Debug\net6.0\crypto.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\CryptoColecoes\crypto\obj\Debug\net6.0\crypto.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\CryptoColecoes\crypto\obj\Debug\net6.0\refint\crypto.dll
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\CryptoColecoes\crypto\obj\Debug\net6.0\crypto.pdb
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\CryptoColecoes\crypto\obj\Debug\net6.0\crypto.genruntimeconfig.cache
+C:\Users\marce\source\repos\M-Siqueira\Academia-.NET-ATOS\CryptoColecoes\crypto\obj\Debug\net6.0\ref\crypto.dll
