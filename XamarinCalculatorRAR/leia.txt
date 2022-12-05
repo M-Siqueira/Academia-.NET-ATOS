@@ -1,0 +1,1 @@
+nao soube ao certo os arquivos a ignorar, optei por temporariamente zipar.
